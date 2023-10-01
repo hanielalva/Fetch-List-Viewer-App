@@ -31,9 +31,13 @@ Usage:
 - Explore, filter, and view the fetched data effortlessly :D
 
 Screenshots of the app running on an iPhone 15 Pro:
+
 <img width="445" alt="iPhone-home-view" src="https://github.com/hanielalva/Fetch-List-Viewer-App/assets/122804255/ba62459b-47c1-48dc-b429-8fbba0e0fa44">
+
 <img width="463" alt="iPhone-list-view" src="https://github.com/hanielalva/Fetch-List-Viewer-App/assets/122804255/21ca58dc-f290-4d10-81a3-454837085bd1">
 
 Screenshots of the app running on a Google Pixel 3a:
+
 <img width="436" alt="Pixel-home-view" src="https://github.com/hanielalva/Fetch-List-Viewer-App/assets/122804255/418de4e1-fb1a-4a85-8195-0bcf47a8553d">
+
 <img width="429" alt="Pixel-list-view" src="https://github.com/hanielalva/Fetch-List-Viewer-App/assets/122804255/05d5d8d2-1e0a-4ca0-86ff-b8ccc026498a">
