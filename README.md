@@ -5,6 +5,7 @@ Description:
 Fetch List Viewer is a versatile mobile application built using React Native on Expo CLI. This app fetches and filters JSON data from a remote source, presenting it in an organized and 
 user-friendly manner. It provides a seamless user experience for viewing and interacting with categorized data. Key features include data fetching, filtering, sorting, and modal pop-up 
 for detailed item information.
+The main functionality and code is in ./app/index.js
 
 Technologies Used:
 - React Native
