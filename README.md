@@ -36,6 +36,7 @@ Screenshots of the app running on an iPhone 15 Pro:
 
 <img width="463" alt="iPhone-list-view" src="https://github.com/hanielalva/Fetch-List-Viewer-App/assets/122804255/21ca58dc-f290-4d10-81a3-454837085bd1">
 
+
 Screenshots of the app running on a Google Pixel 3a:
 
 <img width="436" alt="Pixel-home-view" src="https://github.com/hanielalva/Fetch-List-Viewer-App/assets/122804255/418de4e1-fb1a-4a85-8195-0bcf47a8553d">
